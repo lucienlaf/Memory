@@ -1,0 +1,17 @@
+C:\Users\l.laforet\Downloads\2024_memory_tp\2024_memory_tp\2024_memory_tp\bin\Debug\net8.0-windows\2024_memory_tp.exe
+C:\Users\l.laforet\Downloads\2024_memory_tp\2024_memory_tp\2024_memory_tp\bin\Debug\net8.0-windows\2024_memory_tp.deps.json
+C:\Users\l.laforet\Downloads\2024_memory_tp\2024_memory_tp\2024_memory_tp\bin\Debug\net8.0-windows\2024_memory_tp.runtimeconfig.json
+C:\Users\l.laforet\Downloads\2024_memory_tp\2024_memory_tp\2024_memory_tp\bin\Debug\net8.0-windows\2024_memory_tp.dll
+C:\Users\l.laforet\Downloads\2024_memory_tp\2024_memory_tp\2024_memory_tp\bin\Debug\net8.0-windows\2024_memory_tp.pdb
+C:\Users\l.laforet\Downloads\2024_memory_tp\2024_memory_tp\2024_memory_tp\obj\Debug\net8.0-windows\_2024_memory_tp.form_memory.resources
+C:\Users\l.laforet\Downloads\2024_memory_tp\2024_memory_tp\2024_memory_tp\obj\Debug\net8.0-windows\_2024_memory_tp.Properties.Resources.resources
+C:\Users\l.laforet\Downloads\2024_memory_tp\2024_memory_tp\2024_memory_tp\obj\Debug\net8.0-windows\2024_memory_tp.csproj.GenerateResource.cache
+C:\Users\l.laforet\Downloads\2024_memory_tp\2024_memory_tp\2024_memory_tp\obj\Debug\net8.0-windows\2024_memory_tp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.laforet\Downloads\2024_memory_tp\2024_memory_tp\2024_memory_tp\obj\Debug\net8.0-windows\2024_memory_tp.AssemblyInfoInputs.cache
+C:\Users\l.laforet\Downloads\2024_memory_tp\2024_memory_tp\2024_memory_tp\obj\Debug\net8.0-windows\2024_memory_tp.AssemblyInfo.cs
+C:\Users\l.laforet\Downloads\2024_memory_tp\2024_memory_tp\2024_memory_tp\obj\Debug\net8.0-windows\2024_memory_tp.csproj.CoreCompileInputs.cache
+C:\Users\l.laforet\Downloads\2024_memory_tp\2024_memory_tp\2024_memory_tp\obj\Debug\net8.0-windows\2024_memory_tp.dll
+C:\Users\l.laforet\Downloads\2024_memory_tp\2024_memory_tp\2024_memory_tp\obj\Debug\net8.0-windows\refint\2024_memory_tp.dll
+C:\Users\l.laforet\Downloads\2024_memory_tp\2024_memory_tp\2024_memory_tp\obj\Debug\net8.0-windows\2024_memory_tp.pdb
+C:\Users\l.laforet\Downloads\2024_memory_tp\2024_memory_tp\2024_memory_tp\obj\Debug\net8.0-windows\2024_memory_tp.genruntimeconfig.cache
+C:\Users\l.laforet\Downloads\2024_memory_tp\2024_memory_tp\2024_memory_tp\obj\Debug\net8.0-windows\ref\2024_memory_tp.dll
